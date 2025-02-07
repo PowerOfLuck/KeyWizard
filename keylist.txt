@@ -1,0 +1,6 @@
+activate: 
+ctrl: c
+ctrl: v
+time: 0.2
+ctrl: c
+ctrl: v
